@@ -55,9 +55,7 @@ Most local file-sharing tools (like AirDrop or QuickShare) only work when device
 ## 🚀 How to Run It Right Now
 
 ### Option 1: Any-Network Mode (Works on 5G, LTE, Different Wi-Fi, Anywhere)
-Double-click:
-```
-C:\Users\M Charith Reddy\.gemini\antigravity\scratch\anydrop\start-anywhere.bat
+
 ```
 Or run `start.bat` and choose **Option [1]**.
 
