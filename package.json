@@ -1,0 +1,21 @@
+{
+  "name": "anydrop",
+  "version": "1.0.0",
+  "description": "Cross-platform phone & PC file transfer from anywhere",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "file-transfer",
+    "p2p",
+    "webrtc",
+    "airdrop",
+    "ios",
+    "android",
+    "pc",
+    "storage"
+  ],
+  "author": "AnyDrop",
+  "license": "MIT"
+}
